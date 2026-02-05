@@ -9,7 +9,8 @@
 📫 Reach me at: sonal.obedient@email.com  
 🔗 [LinkedIn Profile](www.linkedin.com/in/sonal-maheshwari-539a3448)
 
-
+- API integration
+- Responsive UI
 
 ## 🛠 Tech Stack
 
