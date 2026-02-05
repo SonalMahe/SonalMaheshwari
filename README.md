@@ -1,23 +1,60 @@
 # SonalMaheshwari
-## Hi there 👋, I'm Sonal Maheshwari
 
-💻 Frontend Developer transitioning to Full-stack  
-🎓 MBA,UX/UI designer  
-📍 Based in Malmo,Sweden  
-✨ Passionate about clean code, UI/UX & realtime web apps  
 
-📫 Reach me at: sonal.obedient@email.com  
-🔗 [LinkedIn Profile](www.linkedin.com/in/sonal-maheshwari-539a3448)
+<h1 align="center">Hi 👋, I'm Sonal Maheshwari</h1>
+<h3 align="center">Software Developer | TypeScript Learner</h3>
 
-- API integration
-- Responsive UI
+---
 
-## 🛠 Tech Stack
+### 👩‍💻 About Me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+- 💻 Passionate about **web development** and modern JavaScript
+- 🌱 Currently learning **TypeScript & Frontend Technologies**
+- 🎯 Focused on improving **clean code & problem-solving skills**
+- ⚡ Curious, consistent, and always learning
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+### 📌 Featured Repository
+
+🔹 Check out my pinned projects below to see what I’m working on  
+🔹 I enjoy building small projects to strengthen my fundamentals
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonalMahe&show_icons=true&theme=default" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonalMahe&layout=compact" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 Open to learning, collaboration, and feedback
+- 🌟 Exploring opportunities to grow as a developer
+
+---
+
+⭐️ *Thank you for visiting my GitHub profile!*
 
 
