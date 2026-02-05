@@ -36,18 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonalMahe&show_icons=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonalMahe&layout=compact" />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
 - 💬 Open to learning, collaboration, and feedback
