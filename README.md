@@ -8,10 +8,10 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Passionate about **web development** and modern JavaScript
-- 🌱 Currently learning **TypeScript & Frontend Technologies**
+- 💻 Passionate about **web development** and modern JavaScript/React
+- 🌱 Currently learning **TypeScript & Backend Technologies**
 - 🎯 Focused on improving **clean code & problem-solving skills**
-- ⚡ Curious, consistent, and always learning
+- ⚡ Curious, consistent, and always learning.
 
 ---
 
